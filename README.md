@@ -8,7 +8,7 @@ This experience underscores the importance of taking ownership and delving into 
 
 I live in Vancouver and am currently seeking new opportunities here.
 
-I actively share my knowledge, learning, or insights on tech matters through [my tech blog](https://momori-nakano.hashnode.dev/).
+I actively share my knowledge, learning, or insights on tech matters through [my tech blog](https://momori.dev/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momori256&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
