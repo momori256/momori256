@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-I'm Momori, a software engineer with C++, Rust, and SQL expertise in Vancouver, Canada.
+I'm Momori, a software engineer based in Toronto, Canada.
 
-I graduated from a university in Japan and embarked on my engineering journey at a video game company. There, I honed my skills in C++, SQL, and C#, essential for my primary role in developing a version management system for digital assets - think of it as Git and GitHub for images, sounds, or 3D models.
+I work on RDBMS storage engine internals with experience in C++, Rust, SQL, and C.
 
-This experience underscores the importance of taking ownership and delving into technologies. My recent focus has been on Rust, which aligns with my passion for learning low-layer and functional programming.
+I'm interested in low-level systems programming, especially database internals and storage engines.
 
-I live in Vancouver and am currently seeking new opportunities here.
+Previously, I worked in the video game industry, where I developed a version management system for digital assets, similar to Git and GitHub for images, sounds, and 3D models.
 
-I actively share my knowledge, learning, or insights on tech matters through [my tech blog](https://momori.dev/).
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momori256&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+I also share my knowledge and insights on technical topics through [my tech blog](https://momori.dev/).
 
 <!--
 **momori256/momori256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
